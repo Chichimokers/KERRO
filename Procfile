@@ -1,1 +1,1 @@
-web: python bot_group.py
+web: python setup.py
