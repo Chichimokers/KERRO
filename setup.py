@@ -36,7 +36,7 @@ def Canal_deReplicas(update,context):
     return ConversationHandler.END
     pass
 if __name__ == '__main__':  
-    update = Updater(token="1827186160:AAE528XL7IOGQPnParmyP3oWXNBnsNBx15Y",use_context=True)
+    update = Updater(token="aqui va tu toquen",use_context=True)
     despachador =  update.dispatcher
     #add handler
 
